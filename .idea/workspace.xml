@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="38b3057f-c418-474c-a9a2-fce12f0c18f1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HYDM.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -835,12 +835,12 @@
       <workItem from="1470453047431" duration="1915000" />
       <workItem from="1470621160172" duration="3345000" />
       <workItem from="1470647303461" duration="323000" />
-      <workItem from="1470706864352" duration="25703000" />
+      <workItem from="1470706864352" duration="25841000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73080000" />
+    <option name="totallyTimeSpent" value="73218000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
